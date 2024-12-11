@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascript 
 - 💞️ I’m looking to collaborate on a project with my current level(js)
 - 📫 How to reach me is in my profile
-- 😄 Pronouns: il/him
+- 😄 Pronouns: Il/Lui
 - ⚡ Fun fact: I can speak french😳🙃
 
 <!---
